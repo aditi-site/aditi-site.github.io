@@ -1,4 +1,4 @@
-## Welcome to GitHub site
+## Welcome to My personal GitHub site
 
 You can use the [editor on GitHub](https://github.com/aditi-site/aditi-site.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
